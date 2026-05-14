@@ -88,15 +88,15 @@ Para mantener una estética coherente con la temática Pokémon y ofrecer una ex
 
 | Muestra | Color | Hexadecimal | Uso en la Interfaz |
 | :---: | :--- | :--- | :--- |
-| ![](https://via.placeholder.com/15/c0392b/000000?text=+) | **Rojo Pokédex** | `#c0392b` | Color de marca, botones y bordes superiores. |
-| ![](https://via.placeholder.com/15/a93226/000000?text=+) | **Rojo Oscuro** | `#a93226` | Estados hover en botones. |
-| ![](https://via.placeholder.com/15/e74c3c/000000?text=+) | **Rojo Acento** | `#e74c3c` | Iconos de favoritos (corazón) y errores. |
-| ![](https://via.placeholder.com/15/27ae60/000000?text=+) | **Verde Éxito** | `#27ae60` | Mensajes de confirmación y registro. |
-| ![](https://via.placeholder.com/15/f5f5f5/000000?text=+) | **Fondo General** | `#f5f5f5` | Fondo de la aplicación. |
-| ![](https://via.placeholder.com/15/ffffff/000000?text=+) | **Blanco Nieve** | `#ffffff` | Fondo de tarjetas y formularios. |
-| ![](https://via.placeholder.com/15/dddddd/000000?text=+) | **Gris Suave** | `#dddddd` | Bordes y líneas divisorias. |
-| ![](https://via.placeholder.com/15/333333/000000?text=+) | **Gris Texto** | `#333333` | Color base para textos principales. |
-| ![](https://via.placeholder.com/15/888888/000000?text=+) | **Gris Secundario**| `#888888` | Números de Pokémon y leyendas. |
+| ![](https://placehold.co/100x25/c0392b/c0392b.png) | **Rojo Pokédex** | `#c0392b` | Color de marca, botones y bordes superiores. |
+| ![](https://placehold.co/100x25/a93226/a93226.png) | **Rojo Oscuro** | `#a93226` | Estados hover en botones. |
+| ![](https://placehold.co/100x25/e74c3c/e74c3c.png) | **Rojo Acento** | `#e74c3c` | Iconos de favoritos (corazón) y errores. |
+| ![](https://placehold.co/100x25/27ae60/27ae60.png) | **Verde Éxito** | `#27ae60` | Mensajes de confirmación y registro. |
+| ![](https://placehold.co/100x25/f5f5f5/f5f5f5.png) | **Fondo General** | `#f5f5f5` | Fondo de la aplicación. |
+| ![](https://placehold.co/100x25/ffffff/ffffff.png) | **Blanco Nieve** | `#ffffff` | Fondo de tarjetas y formularios. |
+| ![](https://placehold.co/100x25/dddddd/dddddd.png) | **Gris Suave** | `#dddddd` | Bordes y líneas divisorias. |
+| ![](https://placehold.co/100x25/333333/333333.png) | **Gris Texto** | `#333333` | Color base para textos principales. |
+| ![](https://placehold.co/100x25/888888/888888.png) | **Gris Secundario**| `#888888` | Números de Pokémon y leyendas. |
 
 ---
 
