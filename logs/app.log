@@ -1,0 +1,7 @@
+[2026-05-14 14:46:19] [INFO] [usuario:sebastian] [script:Logger.php] Sesión cerrada para: sebastian
+[2026-05-14 15:04:28] [INFO] [usuario:sebastian] [script:Logger.php] Login exitoso para: sebastian
+[2026-05-14 15:04:33] [INFO] [usuario:sebastian] [script:Logger.php] Favoritos listados — total:2
+[2026-05-14 15:04:47] [INFO] [usuario:sebastian] [script:Logger.php] Favorito guardado — pokemon_id:454 nombre:toxicroak
+[2026-05-14 15:04:50] [INFO] [usuario:sebastian] [script:Logger.php] Favoritos listados — total:3
+[2026-05-14 15:05:15] [INFO] [usuario:sebastian] [script:Logger.php] Favorito guardado — pokemon_id:375 nombre:metang
+[2026-05-14 15:05:18] [INFO] [usuario:sebastian] [script:Logger.php] Favoritos listados — total:4
