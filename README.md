@@ -86,16 +86,17 @@ erDiagram
 
 Para mantener una estética coherente con la temática Pokémon y ofrecer una experiencia de usuario premium, se utiliza la siguiente paleta:
 
-| Color | Hexadecimal | Uso en la Interfaz |
-| :--- | :--- | :--- |
-| **Rojo Principal** | `#c0392b` | Títulos principales, botones de acción y encabezados de tablas. |
-| **Rojo Oscuro** | `#a93226` | Estados de interacción (hover) en botones. |
-| **Rojo Acento** | `#e74c3c` | Iconos de favoritos (corazón) y mensajes de error críticos. |
-| **Fondo General** | `#f5f5f5` | Color de fondo de toda la aplicación. |
-| **Blanco Nieve** | `#ffffff` | Fondo de tarjetas de Pokémon, paneles de resultados y contenedores de login. |
-| **Gris Suave** | `#dddddd` | Bordes de tarjetas y líneas divisorias. |
-| **Texto Primario** | `#222222` | Color base para todo el contenido escrito. |
-| **Texto Secundario** | `#888888` | Números de Pokémon, fechas y leyendas informativas. |
+| Muestra | Color | Hexadecimal | Uso en la Interfaz |
+| :---: | :--- | :--- | :--- |
+| ![](https://via.placeholder.com/15/c0392b/000000?text=+) | **Rojo Pokédex** | `#c0392b` | Color de marca, botones y bordes superiores. |
+| ![](https://via.placeholder.com/15/a93226/000000?text=+) | **Rojo Oscuro** | `#a93226` | Estados hover en botones. |
+| ![](https://via.placeholder.com/15/e74c3c/000000?text=+) | **Rojo Acento** | `#e74c3c` | Iconos de favoritos (corazón) y errores. |
+| ![](https://via.placeholder.com/15/27ae60/000000?text=+) | **Verde Éxito** | `#27ae60` | Mensajes de confirmación y registro. |
+| ![](https://via.placeholder.com/15/f5f5f5/000000?text=+) | **Fondo General** | `#f5f5f5` | Fondo de la aplicación. |
+| ![](https://via.placeholder.com/15/ffffff/000000?text=+) | **Blanco Nieve** | `#ffffff` | Fondo de tarjetas y formularios. |
+| ![](https://via.placeholder.com/15/dddddd/000000?text=+) | **Gris Suave** | `#dddddd` | Bordes y líneas divisorias. |
+| ![](https://via.placeholder.com/15/333333/000000?text=+) | **Gris Texto** | `#333333` | Color base para textos principales. |
+| ![](https://via.placeholder.com/15/888888/000000?text=+) | **Gris Secundario**| `#888888` | Números de Pokémon y leyendas. |
 
 ---
 
